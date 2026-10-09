@@ -1,0 +1,24 @@
+0
+0
+4
+6
+45
+3
+19
+100
+83
+2
+4
+2
+4
+3
+3
+3
+101
+0
+0
+0
+1
+11110
+longsword healthpotion manapotion vigorpotion axe dagger staff axe 
+01
